@@ -2,3 +2,36 @@ body {
   margin: 0;
   font-family: 'JetBrains Mono', monospace;
 }
+
+#header {
+  background-color: #1f2937;
+}
+
+#top-bar {
+  padding: 0 120px;
+  display: flex;
+}
+
+.page-logo {
+  font-size: 24px;
+  color: #f9faf8;
+  font-weight: 900;
+  flex: auto;
+}
+
+.nav-bar {
+  display: flex;
+  justify-content: flex-end;
+  flex: auto;
+}
+
+.nav-bar a {
+  font-size: 18px;
+  color: #e5e7eb;
+  text-decoration: none;
+  padding: 22px 12px;
+}
+
+.nav-bar a:hover {
+  background-color: #0a101a;
+}
