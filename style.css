@@ -35,3 +35,56 @@ body {
 .nav-bar a:hover {
   background-color: #0a101a;
 }
+
+#hero-section {
+  width: 80%;
+  padding: 60px 10px;
+  margin: 0 auto;
+  display: flex;
+}
+
+.hero-text-container {
+  flex: 1 1 0%;
+}
+
+.hero-text-container h1 {
+  font-size: 48px;
+  font-weight: 900;
+  color: #f9faf8;
+  margin: 0;
+}
+
+.hero-text-container p {
+  font-size: 18px;
+  color: #e5e7eb;
+  margin: 0;
+  margin-bottom: 10px;
+}
+
+.signup-button {
+  height: 35px;
+  width: 120px;
+  font-size: 18px;
+  font-weight: bold;
+  color: #e5e7eb;
+  background-color: #3882f6;
+  border: none;
+  border-radius: 8px;
+}
+
+.signup-button:hover {
+  transform: scale(1.02);
+}
+
+.hero-image-container {
+  background-color: #e5e7eb5f;
+  flex: 1 1 0%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero-image-container span {
+  font-size: 18px;
+  color: #e5e7eb;
+}
