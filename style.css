@@ -152,3 +152,31 @@ body {
   margin: 0;
   display: block;
 }
+
+#call-to-action {
+  padding: 80px;
+}
+
+.signup-container {
+  background-color: #3882f6;
+  border-radius: 8px;
+  padding: 50px;
+  width: 75%;
+  margin: 0 auto;
+  display: flex;
+}
+
+.signup-container h2, .signup-container p{
+  margin: 0;
+  color: #e5e7eb;
+}
+
+.signup-container div {
+  flex: 1 1 0%;
+}
+
+#sign-up-bottom {
+  border: 2px solid #e5e7eb;
+  align-self: flex-end;
+  flex: 0 0 auto;
+}
