@@ -180,3 +180,14 @@ body {
   align-self: flex-end;
   flex: 0 0 auto;
 }
+
+#footer {
+  background-color: #1f2937;
+  padding: 10px;
+}
+
+#footer p {
+  text-align: center;
+  font-size: 14px;
+  color:#e5e7eb;
+}
