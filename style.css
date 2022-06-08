@@ -118,11 +118,12 @@ body {
   transform: scale(1.02);
 }
 
-.info-card img {
+.info-card span {
   width: 150px;
   height: 150px;
   border: 4px solid #3882f6;
   border-radius: 20px;
+  display: block;
 }
 
 .info-card .description {
