@@ -6,3 +6,7 @@ The Landing Page is second project introducec in Foundations learning path of Th
 - Knowledge of basic CSS properties
 - Using `div` and `span` elements for designing
 - Use Flexbox layout for placing elements
+
+# Related links
+- [The Odin Project](https://www.theodinproject.com)
+- [Live preview of my project](https://tirth132.github.io/landing-page)
